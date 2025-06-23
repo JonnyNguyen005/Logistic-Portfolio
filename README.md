@@ -4,8 +4,8 @@ Logistics projects that illustrate my ability to analyze and interpret both expl
 ## Projects
 
 * ### Project: Geographical Service Area Definition
-**Description:** This project defines realistic service areas for five logistics hubs using customer addresses and postal code boundaries. It visualizes the natural catchment zones per site based on customer clusters and administrative regions, leveraging MyMaps and shapefile overlays.
-**Geospatial Skills Used:** Territory segmentation, KML import, visual clustering, ZIP-level analysis.
+  * **Description:** This project defines realistic service areas for five logistics hubs using customer addresses and postal code boundaries. It visualizes the natural catchment zones per site based on customer clusters and administrative regions, leveraging MyMaps and shapefile overlays.
+  * **Geospatial Skills Used:** Territory segmentation, KML import, visual clustering, ZIP-level analysis.
 🔗 [View Map Snapshot](./visuals/service_area_definition.png)  
 📄 [View README](./geographical-service-area/README.md)
 
