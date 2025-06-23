@@ -28,7 +28,7 @@ This project visualizes and analyzes service area definitions for five logistics
 
 - Assign boundary zones based on travel time thresholds (e.g., max 90 minutes).
 - Reallocate edge customers to balance workload between hubs.
-- Use these maps for driver shift planning and route simulations (→ see next project).
+- Use these maps for driver shift planning and route simulations.
 - Integrate with routing tools (e.g., GraphHopper, OpenRouteService) to calculate travel time isochrones.
 
 ---
@@ -42,9 +42,8 @@ This project visualizes and analyzes service area definitions for five logistics
 ### 📍 Visual Output 
 
 ![Service Area Map](![Unbenannt](https://github.com/user-attachments/assets/dadfdc95-76a6-4240-9983-4e01d75e371b)
-)
 
-> [View Full Interactive Map]([https://www.google.com/maps/d/u/0/edit?mid=1lmA6G2OOP2aNDyRpng9ZkhoNyPqnxJo&ll=52.15407456290242%2C14.042294269756827&z=9](https://www.google.com/maps/d/u/0/edit?mid=1FsZq2MIX8XtFn8G7Sf-LfyPdYxaekXk&usp=sharing))
+> [View Full Interactive Map](https://www.google.com/maps/d/u/0/edit?mid=1lmA6G2OOP2aNDyRpng9ZkhoNyPqnxJo&ll=52.15407456290242%2C14.042294269756827&z=9](https://www.google.com/maps/d/u/0/edit?mid=1FsZq2MIX8XtFn8G7Sf-LfyPdYxaekXk&usp=sharing)
 
 ---
 
