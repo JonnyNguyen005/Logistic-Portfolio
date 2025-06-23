@@ -62,7 +62,7 @@ This project visualizes economically viable dispatch areas for five disposal ser
 
 ---
 
-### 📍 Visual Output (Preview)
+### 📍 Visual Output 
 
 ![60-Min Isochrone Map](https://github.com/user-attachments/assets/08050223-d3ec-4e4f-b406-0287d5426feb)
 
