@@ -1,2 +1,2 @@
 # Logistic-Portfolio
-Collection of my logistic projects, showcasing my skills in exploratory data analysis and geographical data analysis.
+Logistics projects that illustrate my ability to analyze and interpret both exploratory and geographic data for real-world insights.
