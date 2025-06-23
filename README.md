@@ -1,7 +1,7 @@
 # Logistic-Portfolio
 Logistics projects that illustrate my ability to analyze and interpret both exploratory and geographic data for real-world insights.
 
-# Geographical Service Area Optimization
+## Geographical Service Area Optimization
 
 This project visualizes and analyzes service area definitions for five logistics hubs using customer location data, postal code boundaries, and Google MyMaps. It serves as the foundation for further routing and coverage optimizations.
 
